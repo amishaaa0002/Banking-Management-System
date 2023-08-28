@@ -19,7 +19,7 @@ A simple banking management system implemented in C++ using Object-Oriented Prog
 - View account details, including balance and account holder information.
 - Perform deposit and withdrawal transactions on accounts.
 - Update account information such as account holder name and contact details.
-- Delete accounts from the system.
+
 
 ## Getting Started
 
@@ -34,5 +34,5 @@ A simple banking management system implemented in C++ using Object-Oriented Prog
 
    ```bash
    git clone https://github.com/your-username/banking-management-system.git
-   cd banking-management-system
+
 
